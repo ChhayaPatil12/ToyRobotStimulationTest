@@ -39,14 +39,15 @@ This test checks the integration of multiple commands. It places the robot at po
 ```bash
 git clone <https://github.com/ChhayaPatil12/ToyRobotStimulationTest.git>
 cd ToyRobotSimulation
+```
 
 2. Open the solution in Visual Studio.
 
 3. Build the solution.
 
 4. Run the unit tests using the Visual Studio Test Explorer or the following command in the console:
-
-```bash
-dotnet test
+```
+   dotnet test
+```
 
 
